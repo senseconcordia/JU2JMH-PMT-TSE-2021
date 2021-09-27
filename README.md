@@ -1,6 +1,6 @@
 # Automated Performance Microbenchmarks Generation and Evaluation
 
-This is a repository where you can get the replication package for the TSE paper entitled "Automated Performance Microbenchmarks Generation and Evaluation". The replication package consists of experimental data and scripts for reproducing the data.
+This is a repository where you can get the replication package for the TSE paper entitled `"Automated Performance Microbenchmarks Generation and Evaluation"`. The replication package consists of experimental data and scripts for reproducing the data.
 
 ## Scripts
 
@@ -12,7 +12,7 @@ This is a repository where you can get the replication package for the TSE paper
 
 ## Data
 
-TODO: need some descripts
+The data can be found in the directory `Data`, which contains three sub-directories:
 
 * Eclipse-collections: 
 * RxJava:
