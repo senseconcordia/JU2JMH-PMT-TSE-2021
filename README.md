@@ -22,8 +22,8 @@ Scripts related to analyzing major factors affecting performance microbenchmarks
 
 The data can be found in the directory `Data`, which contains four sub-directories:
 
-* Eclipse-collections: contains data for the Eclipse-collections project, see https://github.com/eclipse/eclipse-collections.
-* RxJava: contains data for the RxJava project, see https://github.com/ReactiveX/RxJava.
-* Zipkin: contains data for the RxJava project, see https://github.com/openzipkin/zipkin.
+* Eclipse-collections: contains data for the [Eclipse-collections](https://github.com/eclipse/eclipse-collections) project.
+* RxJava: contains data for the [RxJava](https://github.com/ReactiveX/RxJava) project.
+* Zipkin: contains data for the [Zipkin](https://github.com/openzipkin/zipkin) project.
 * Simulation: contains data for a preliminary analyze of the Performance Mutation Testing (PMT) framework.
 
