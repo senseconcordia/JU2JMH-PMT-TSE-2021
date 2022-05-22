@@ -14,7 +14,7 @@ Scripts related to calculating the **Relative Standard Deviations (RSD)** and th
 
 Scripts related to deploying performance mutation testing and calculating the **Performance Mutation Score** of performance microbenchmarks.
 
-### RQ3
+### RQ4
 
 Scripts related to analyzing major factors affecting performance microbenchmarks' ability in detecting performance bugs.
 
@@ -25,5 +25,5 @@ The data can be found in the directory `Data`, which contains four sub-directori
 * Eclipse-collections: contains data for the [Eclipse-collections](https://github.com/eclipse/eclipse-collections) project.
 * RxJava: contains data for the [RxJava](https://github.com/ReactiveX/RxJava) project.
 * Zipkin: contains data for the [Zipkin](https://github.com/openzipkin/zipkin) project.
+* Storio: contains data for the [Storio](https://github.com/pushtorefresh/storio.git) project.
 * Simulation: contains data for a preliminary analyze of the Performance Mutation Testing (PMT) framework.
-
